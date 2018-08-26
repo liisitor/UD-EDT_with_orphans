@@ -11,7 +11,7 @@ Orphan relations: 278
 ('orphan:obl', 128), ('orphan:advmod', 110), ('orphan:obj', 19), ('orphan:acl', 11), ('orphan:xcomp', 5), ('orphan:nsubj', 4), ('orphan:compound:prt', 1)
 
 
-#### Orphan relations after fixing program output manually
+#### Orphan relations after fixing program output manually:
 
 Orphan relations: 344
 
