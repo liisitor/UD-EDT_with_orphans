@@ -1,5 +1,9 @@
 # UD-EDT_with_orphans
 
+### For running:
+
+python3 elliptical_sentences.py --files korpus1.conllu korpus2.conllu --exclusions-file exclude_sentences.txt --endings-file exclude_endings.txt
+
 #### Orphan relations using program:
 
 Orphan relations: 278
